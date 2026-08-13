@@ -1,109 +1,122 @@
-````markdown
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=POOJA%20M%20M&fontSize=52&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Software%20Development&descAlignY=62&animation=fadeIn" width="100%"/>
+<!-- ==================== HERO ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:312e81&height=260&section=header&text=POOJA%20M%20M&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPER&descSize=18&descAlignY=60&animation=fadeIn"/>
+
+### `AI & Data Science` · `Software Development` · `AI / ML`
+
+<p>
+Building practical solutions with
+<strong>Java · Python · SQL · Machine Learning · Cloud</strong>
+</p>
 
 <br>
 
-### `AI & Data Science` · `Software Development` · `AI/ML`
-
-Building practical solutions with **Java, Python, SQL, Machine Learning & Cloud technologies.**
-
-<br>
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/poojamanikandan4-commits">
+<img src="https://img.shields.io/badge/GitHub-Profile-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
-&nbsp;
+
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LEETCODE-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-&nbsp;
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:poojavsb074@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ MY DEVELOPER SPACE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👩‍💻 WHO AM I?
-
-🎓 **AI & Data Science Student**
-
-📍 Coimbatore
-
-📈 **CGPA 8.6**
-
-💻 Java & Python
-
-🧠 Machine Learning
-
-☁️ Cloud Technologies
-
-🚀 Building practical projects
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 CURRENT FOCUS
-
-```text
-Java
-████████████░░░
-
-SQL
-██████████░░░░
-
-DSA
-████████░░░░░░
-
-Machine Learning
-██████████░░░░
-
-Backend Development
-███████░░░░░░░
-
-Cloud
-███████░░░░░░░
-````
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧰 TECH ARSENAL
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,aws,git,github,sap&perline=7" />
 
 <br><br>
 
-`Java` `Python` `SQL` `ABAP` `Machine Learning` `AWS` `SAP`
+<img src="https://komarev.com/ghpvc/?username=poojamanikandan4-commits&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<!-- ==================== INTRO ==================== -->
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+## 👩‍💻 `WHO AM I`
+
+I'm **Pooja M M**, an Artificial Intelligence & Data Science
+student focused on building practical software and
+data-driven solutions.
+
+I enjoy working across the intersection of:
+
+**Software Development**  
+**Artificial Intelligence**  
+**Machine Learning**  
+**Data & Problem Solving**  
+**Cloud Technologies**
+
+Currently strengthening my foundations in **Java, SQL, DSA,
+Machine Learning, Backend Development and Cloud**.
+
+</td>
+
+<td width="45%" valign="top">
+
+## ⚡ `QUICK INFO`
+
+🎓 **B.Tech AI & Data Science**
+
+📊 **CGPA — 8.6**
+
+💻 **Java + Python**
+
+🧠 **Machine Learning**
+
+☁️ **AWS + SAP**
+
+📍 **Coimbatore**
+
+🚀 **Project-focused learner**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+<div align="center">
+
+## 🧰 `TECH STACK`
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,aws,git,github&perline=6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWT%20%2F%20Swing-ED8B00?style=flat-square"/>
+
+</div>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+<div align="center">
+
+# 🚀 `FEATURED PROJECTS`
+
+</div>
 
 <table>
 <tr>
@@ -112,30 +125,34 @@ Cloud
 
 <div align="center">
 
-### ☁️ CLOUD COST
-
-### OPTIMIZER AI AGENT
+## ☁️ CLOUD COST
+## OPTIMIZER AI AGENT
 
 **Python · GitHub API**
 
 </div>
 
-AI-powered cloud cost analysis and optimization system.
+An AI-powered tool designed to analyze cloud costs
+and identify optimization opportunities.
 
-**Built around:**
+### ✦ What I built
 
-* ☁️ Cloud cost analysis
-* 🤖 Multi-agent system
-* 📊 Agent-based dashboard
-* 🔗 GitHub API integration
-* 📑 Automated reporting
-* 🧠 Optimization recommendations
+- AI-powered cloud cost analysis
+- Agent-based dashboard
+- GitHub API integration
+- Automated reporting
+- Multi-agent optimization system
+- Decision-support recommendations
 
 <br>
 
 <div align="center">
 
-**[ VIEW PROJECT → ](YOUR_CLOUD_COST_OPTIMIZER_REPO)**
+<a href="YOUR_CLOUD_COST_OPTIMIZER_REPO">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
@@ -145,30 +162,34 @@ AI-powered cloud cost analysis and optimization system.
 
 <div align="center">
 
-### 🕹️ JAVA GUI
-
-### GAME DEVELOPMENT
+## 🕹️ JAVA GUI
+## GAME DEVELOPMENT
 
 **Java · AWT · Swing**
 
 </div>
 
-Desktop implementation of **Flappy Bird** using Java GUI technologies.
+A desktop implementation of **Flappy Bird**
+built using Java GUI technologies.
 
-**Built with:**
+### ✦ What I built
 
-* 🎮 Smooth animation
-* 💥 Collision detection
-* ⌨️ Keyboard controls
-* 🏆 Scoring system
-* 🚧 Obstacle generation
-* 🖥️ Custom UI & game logic
+- Smooth animation
+- Collision detection
+- Keyboard controls
+- Scoring system
+- Obstacle generation
+- Custom UI & game logic
 
 <br>
 
 <div align="center">
 
-**[ VIEW PROJECT → ](YOUR_JAVA_GAME_REPO)**
+<a href="YOUR_JAVA_GAME_REPO">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
@@ -179,41 +200,13 @@ Desktop implementation of **Flappy Bird** using Java GUI technologies.
 
 ---
 
-<div align="center">
-
-## 📊 GITHUB ANALYTICS
-
-<a href="YOUR_GITHUB_URL">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-
-</a>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🧠 LEETCODE // PROBLEM SOLVING
+<!-- ==================== EXPERIENCE ==================== -->
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="500"/>
-
-<br><br>
-
-**Learning → Practicing → Solving → Improving**
+# 💼 `EXPERIENCE`
 
 </div>
-
----
-
-## 💼 EXPERIENCE
 
 <table>
 <tr>
@@ -232,8 +225,12 @@ Desktop implementation of **Flappy Bird** using Java GUI technologies.
 
 **Accent Techno Soft · Coimbatore**
 
-Worked on **Crime Rate Analysis – City Wise Crime Data
-Insights using Python with Machine Learning**.
+Worked on:
+
+**Crime Rate Analysis — City Wise Crime Data Insights
+using Python with Machine Learning**
+
+<br>
 
 `Python` · `Data Preprocessing` · `Visualization` · `Machine Learning`
 
@@ -244,57 +241,123 @@ Insights using Python with Machine Learning**.
 
 ---
 
-## 🎓 EDUCATION
+<!-- ==================== CODING ==================== -->
 
 <div align="center">
 
-### B.Tech — Artificial Intelligence & Data Science
-
-**V.S.B College of Engineering Technical Campus, Coimbatore**
-
-`2023 — 2027`
-
-### ⭐ CGPA 8.6
-
-</div>
-
----
-
-## 🏆 CERTIFICATIONS
-
-<div align="center">
-
-|             Certification             | Year |
-| :-----------------------------------: | :--: |
-|    **SAP — ABAP Backend Developer**   | 2026 |
-| **AWS Cloud Practitioner Essentials** | 2026 |
-
-</div>
-
----
-
-## 🏅 BEYOND CODE
+# 🧠 `CODE • BUILD • SOLVE`
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🎤 VYUGA '26
+### 🐙 GitHub
 
-Organized and coordinated **Web Development events**
-for the national-level symposium, managing technical
-activities and participant engagement.
+Building projects and sharing what I learn through code.
+
+<br>
+
+<a href="https://github.com/poojamanikandan4-commits">
+
+<img src="https://github-readme-stats.vercel.app/api?username=poojamanikandan4-commits&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🏆 HACKATHONS
+### 🧩 LeetCode
 
-Participated in multiple national-level hackathons,
-collaborating with teams to solve real-world
-problem statements under time constraints.
+Strengthening algorithmic thinking and
+problem-solving through coding practice.
+
+<br>
+
+<a href="YOUR_LEETCODE_URL">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ==================== LANGUAGES ==================== -->
+
+<div align="center">
+
+## 📊 `GITHUB LANGUAGE PROFILE`
+
+<a href="https://github.com/poojamanikandan4-commits">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamanikandan4-commits&layout=donut-vertical&hide_border=true&theme=transparent"/>
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poojamanikandan4-commits&bg_color=00000000&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ==================== JOURNEY ==================== -->
+
+<div align="center">
+
+# 🛣️ `MY JOURNEY`
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎓
+
+**2023**
+
+B.Tech AI & DS
+
+</td>
+
+<td align="center" width="25%">
+
+### 💼
+
+**2025**
+
+ML Internship
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**2026**
+
+AI + Cloud Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯
+
+**NOW**
+
+Building & Learning
 
 </td>
 
@@ -303,58 +366,114 @@ problem statements under time constraints.
 
 ---
 
+<!-- ==================== EDUCATION ==================== -->
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+## 🎓 `EDUCATION`
+
+### B.Tech — Artificial Intelligence & Data Science
+
+**V.S.B College of Engineering Technical Campus**
+
+Coimbatore · `2023 — 2027`
+
+### ⭐ CGPA `8.6`
+
+</td>
+
+<td width="40%" valign="top">
+
+## 🏆 `CERTIFICATIONS`
+
+**SAP**  
+ABAP Backend Developer · `2026`
+
+**AWS**  
+Cloud Practitioner Essentials · `2026`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ==================== ACTIVITIES ==================== -->
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎤 `VYUGA '26`
+
+Organized and coordinated **Web Development events**
+for the national-level symposium, managing technical
+activities and participant engagement.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏆 `HACKATHONS`
+
+Participated in multiple national-level hackathons,
+collaborating with teams to develop solutions for
+real-world problem statements.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ==================== CURRENTLY LEARNING ==================== -->
+
 <div align="center">
 
-## 🌱 THE JOURNEY
+# 🌱 `CURRENTLY LEARNING`
 
-```text
-          AI & DATA SCIENCE
-                  │
-        ┌─────────┴─────────┐
-        ↓                   ↓
-   SOFTWARE              AI / ML
- DEVELOPMENT                │
-        │                   ↓
-        ↓              DATA ANALYSIS
-      JAVA                   │
-        │                   ↓
-        └──────────→ CLOUD
-                       │
-                       ↓
-                REAL-WORLD PROJECTS
-```
+<br>
+
+<img src="https://img.shields.io/badge/Java-Developing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Developing-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Developing-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Developing-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📈 CURRENTLY BUILDING MY SKILLS
-
-<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk">
-<img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=mysql">
-<img src="https://img.shields.io/badge/DSA-Learning-6C5CE7?style=flat-square">
-<img src="https://img.shields.io/badge/Machine%20Learning-Developing-412991?style=flat-square">
-<img src="https://img.shields.io/badge/Backend-Developing-0F9D58?style=flat-square">
-<img src="https://img.shields.io/badge/Cloud-Developing-FF9900?style=flat-square&logo=amazonaws">
-
-</div>
-
----
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
-## ✦ CONNECT
+<br>
 
-<a href="YOUR_GITHUB_URL">GitHub</a>
-  ·   <a href="YOUR_LEETCODE_URL">LeetCode</a>
-  ·   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  ·   <a href="mailto:poojavsb074@gmail.com">Email</a>
+### `BUILD → LEARN → SOLVE → REPEAT`
+
+I'm always learning something new and turning it into something I can build.
+
+<br>
+
+<a href="https://github.com/poojamanikandan4-commits">
+<img src="https://img.shields.io/badge/GitHub-POOJAMANIKANDAN4--COMMITS-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:poojavsb074@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e293b,100:0f172a&height=120&section=footer"/>
 
 </div>
 ```
