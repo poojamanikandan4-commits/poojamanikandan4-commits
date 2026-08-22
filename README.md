@@ -232,7 +232,7 @@ using Python with Machine Learning**
 
 ## 🧠 LEETCODE
 
-<a href="YOUR_LEETCODE_URL">
+<a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/Poojamanikandan16/)">
 
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap"/>
 
