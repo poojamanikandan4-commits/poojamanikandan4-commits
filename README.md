@@ -1,391 +1,153 @@
 
 <div align="center">
 
-# 👋 POOJA M M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=180&section=header&text=POOJA%20M%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=16" width="100%"/>
 
-### AI & DATA SCIENCE STUDENT
+### `turning curiosity into things that actually work`
 
-**Building practical software with Java, Python, data & AI.**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-POOJA-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![LeetCode](https://img.shields.io/badge/LeetCode-PRACTICE-111111?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
-[![Email](https://img.shields.io/badge/Email-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojavsb074@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=white)](YOUR_LEETCODE)
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:poojavsb074@gmail.com)
 
 </div>
 
 ---
 
-## `01 / DEVELOPER IDENTITY`
+## `hello, world!`
 
-<table>
-<tr>
+I'm **Pooja**, an AI & Data Science student who enjoys turning
+problems into projects.
 
-<td width="55%">
-
-### Hello, I'm Pooja.
-
-I'm an **Artificial Intelligence & Data Science student** interested in
-software development, data-driven applications and AI solutions.
-
-I enjoy turning real-world problems into practical technical solutions
-using **Java, Python, SQL and Machine Learning**.
-
-I'm currently developing my programming foundations, exploring AI-driven
-applications and building projects that combine software with data.
-
-</td>
-
-<td width="45%">
+Currently exploring **Java, Python, SQL, AI/ML, Cloud & SAP/ABAP** —
+while building, experimenting and learning along the way.
 
 ```text
-╭──────────────────────────────╮
-│       DEVELOPER PROFILE      │
-├──────────────────────────────┤
-│                              │
-│  Name       → Pooja M M      │
-│  Field      → AI & DS        │
-│  Education  → B.Tech         │
-│  CGPA       → 8.6            │
-│  Location   → Coimbatore     │
-│                              │
-│  Status     → STUDENT        │
-│  Direction  → SOFTWARE + AI  │
-│                              │
-╰──────────────────────────────╯
+Coimbatore → AI & DS → Code → Build → Learn → Repeat
 ````
 
-</td>
+---
 
-</tr>
-</table>
+## `what I'm up to`
+
+🔭 Building → **AI-powered applications & developer projects**
+🌱 Learning → **Java • SQL • AI/ML • Cloud**
+💡 Curious about → **AI + Software + Real-world problems**
+🤝 Open to → **Projects • Collaboration • Opportunities**
 
 ---
 
-## `02 / DEVELOPER STATUS`
+## `toolbox`
 
-| SIGNAL               | CURRENT STATE                                                        |
-| -------------------- | -------------------------------------------------------------------- |
-| 🔭 **Building**      | AI-powered and software development projects                         |
-| 🌱 **Learning**      | Java, SQL, AI/ML and cloud technologies                              |
-| 💡 **Interested In** | AI, Data Science, Software Development & Automation                  |
-| 🤝 **Open To**       | Internships, full-time opportunities & collaborations                |
-| 🎯 **Goal**          | Become a strong software/AI professional through continuous learning |
+**Languages**
 
----
+`Java` `Python` `SQL` `ABAP`
 
-## `03 / TECHNOLOGY STACK`
+**AI / Data**
 
-### LANGUAGES
+`Machine Learning` `Data Analysis` `Data Visualization`
 
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=mysql\&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-111111?style=flat-square\&logo=sap\&logoColor=white)
+**Cloud / Platforms**
 
-### DATA & AI
+`AWS` `GitHub` `SAP`
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-111111?style=flat-square)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+**Development**
 
-### DATABASE
-
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=mysql\&logoColor=white)
-
-### CLOUD
-
-![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
-
-### SAP
-
-![SAP](https://img.shields.io/badge/SAP-111111?style=flat-square\&logo=sap\&logoColor=white)
-![ABAP](https://img.shields.io/badge/SAP_ABAP-111111?style=flat-square\&logo=sap\&logoColor=white)
-
-### TOOLS
-
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+`Git` `Java AWT` `Java Swing`
 
 ---
 
-## `04 / FEATURED BUILDS`
+## `things I've built`
 
-<table>
-<tr>
+### ☁️ Cloud Cost Optimizer AI Agent
 
-<td width="50%">
-
-### ◈ CLOUD COST OPTIMIZER AI AGENT
-
-**AI-powered cloud cost analysis & optimization**
-
-Built an AI-powered tool to analyze cloud costs and identify
+An AI-powered tool that analyzes cloud costs and finds
 optimization opportunities.
-
-**What it does**
-
-* Analyzes cloud cost information
-* Identifies optimization opportunities
-* Generates optimization recommendations
-* Provides automated decision support
-* Integrates with GitHub API
-* Produces automated reports
-
-**Stack**
 
 `Python` `GitHub API` `AI Agents`
 
-<br/>
+→ [View Project](YOUR_PROJECT_LINK)
 
-[**VIEW REPOSITORY →**](YOUR_PROJECT_1_LINK)
+---
 
-</td>
+### 🎮 Flappy Bird — Java
 
-<td width="50%">
-
-### ◈ JAVA GUI GAME DEVELOPMENT
-
-**Desktop Flappy Bird implementation**
-
-Built a desktop version of **Flappy Bird** using Java with
-animation, collision detection and interactive gameplay.
-
-**What it includes**
-
-* Smooth animation
-* Collision detection
-* Keyboard controls
-* Scoring system
-* Obstacle generation
-* Custom graphical interface
-
-**Stack**
+A desktop Flappy Bird game built from scratch with animation,
+collision detection, keyboard controls and scoring.
 
 `Java` `AWT` `Swing`
 
-<br/>
-
-[**VIEW REPOSITORY →**](YOUR_PROJECT_2_LINK)
-
-</td>
-
-</tr>
-</table>
+→ [View Project](YOUR_PROJECT_LINK)
 
 ---
 
-## `05 / EXPERIENCE`
+### 📊 Crime Rate Analysis
 
-### MACHINE LEARNING INTERN
+Explored city-wise crime data using Python, visualization
+and Machine Learning during my internship.
 
-**Accent Techno Soft · Coimbatore**
-`June 2025 – July 2025`
-
-During my internship, I worked on:
-
-> **Crime Rate Analysis – City Wise Crime Data Insights using Python with Machine Learning**
-
-### WORK HIGHLIGHTS
-
-```text
-DATA
- ↓
-Preprocessing
- ↓
-Visualization
- ↓
-Machine Learning
- ↓
-Analysis
- ↓
-Meaningful Insights
-```
-
-* Applied Python for data preprocessing.
-* Created visualizations for real-world datasets.
-* Worked with Machine Learning model building.
-* Analyzed real-world data to derive meaningful insights.
+`Python` `Machine Learning` `Data Analysis`
 
 ---
 
-## `06 / GITHUB TELEMETRY`
+## `github activity`
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
-
-</div>
-
-### CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## `07 / CODING NETWORK`
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### GITHUB
-
-Projects
-Experiments
-Open Source
-
-[**EXPLORE →**](https://github.com/YOUR_USERNAME)
-
-</td>
-
-<td align="center" width="25%">
-
-### LINKEDIN
-
-Professional Journey
-Networking
-Opportunities
-
-[**CONNECT →**](YOUR_LINKEDIN_LINK)
-
-</td>
-
-<td align="center" width="25%">
-
-### LEETCODE
-
-DSA
-Problem Solving
-Consistency
-
-[**PRACTICE →**](YOUR_LEETCODE_LINK)
-
-</td>
-
-<td align="center" width="25%">
-
-### EMAIL
-
-Opportunities
-Ideas
-Collaboration
-
-[**CONTACT →**](mailto:poojavsb074@gmail.com)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `08 / CREDENTIALS`
-
-### CERTIFICATIONS
-
-| Certification                         | Year |
-| ------------------------------------- | ---: |
-| **SAP – ABAP Backend Developer**      | 2026 |
-| **AWS Cloud Practitioner Essentials** | 2026 |
-
-### ACHIEVEMENTS
-
-**VYUGA '26 — Web Development Event**
-
-Organized and coordinated Web Development events for the
-national-level symposium **“Vyuga '26”**, managing technical
-activities and participant engagement.
-
-**National-Level Hackathons**
-
-Participated in multiple national-level hackathons, collaborating
-with teams to develop innovative solutions for real-world problem
-statements within time-constrained environments.
-
----
-
-## `09 / CURRENTLY EXPLORING`
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  CURRENT FOCUS                                             │
-│                                                            │
-│  → Java                                                    │
-│  → Python                                                  │
-│  → SQL                                                     │
-│  → Artificial Intelligence & Machine Learning              │
-│  → Cloud Technologies                                      │
-│  → SAP / ABAP                                              │
-│  → Software Development                                    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
----
-
-## `10 / DEVELOPER PHILOSOPHY`
-
-<div align="center">
-
-### LEARN → EXPERIMENT → BUILD → SOLVE → IMPROVE
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="160"/>
 
 <br>
 
-> **Every problem is an opportunity to learn something new.
-> Every project is an opportunity to become better.**
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-## `11 / LET'S BUILD`
+## `a little more about me`
+
+🎓 **B.Tech — Artificial Intelligence & Data Science**
+🏫 V.S.B College of Engineering Technical Campus
+📈 **CGPA: 8.6**
+💻 Interested in **Software + AI**
+🏆 Participated in **national-level hackathons**
+🧩 Organized technical activities for **Vyuga '26**
+
+---
 
 <div align="center">
 
-### Have an interesting idea?
+### `learn something → build something → make it better`
 
-I'm open to **learning, collaborating, building projects,
-and exploring new opportunities.**
+**Always curious. Always building.**
 
-<br/>
+<br>
 
-[![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
+<a href="YOUR_LINKEDIN">
 
-[![Start a Conversation](https://img.shields.io/badge/START_A_CONVERSATION-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:poojavsb074@gmail.com)
+<img src="https://img.shields.io/badge/Let's%20Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<br/>
+</a>
 
-`Build something useful. Learn something new. Keep improving.`
+<br><br>
 
-<br/>
-
-**Thanks for visiting my GitHub.**
+`Thanks for stopping by ✦`
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:111827&height=100&section=footer" width="100%"/>
 ```
 
-**Only replace these remaining placeholders:** `YOUR_USERNAME`, `YOUR_LINKEDIN_LINK`, `YOUR_LEETCODE_LINK`, and the two project repository links. The rest is based on the information in your resume. 
+### What makes this different
+
+* **Much shorter** — it doesn't feel like another resume.
+* **Personal identity first** — `hello, world!`, `what I'm up to`, `things I've built`.
+* **Photo-ready header** — your own photo can be incorporated into a custom banner.
+* **No generic 10-section portfolio structure.**
+* **No neon/retro aesthetic.**
+* Uses your actual **AI/DS + Java + Python + projects** rather than simply dumping resume content. 
+* Your internship/project details are condensed rather than copied from the resume.  
+
+If you upload **one photo you want to use**, I can make the top section feel much more like **your personal GitHub identity** rather than a template.
