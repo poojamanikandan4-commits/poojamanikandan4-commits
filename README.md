@@ -1,12 +1,4 @@
-You're right — you mean **this visual style specifically**: when someone opens your GitHub profile, the README should feel like a **designed profile page**, with a large custom header, compact info blocks, glowing cards, project showcases, and stats.
 
-Not a normal README with lots of plain headings.
-
-So I would build yours like this:
-
-**Design concept: `POOJA // DIGITAL LAB`**
-
-````markdown
 <div align="center">
 
 <!-- ====================== HERO ====================== -->
