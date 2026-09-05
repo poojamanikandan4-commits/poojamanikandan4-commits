@@ -1,19 +1,15 @@
 
 <div align="center">
 
-<!-- HERO BACKGROUND -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:171717,70:312E81,100:7C3AED&height=190&section=header&text=POOJA%20M%20M&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20BUILDING%20WITH%20CODE&descSize=14&descAlignY=62&animation=fadeIn"/>
+<!-- HERO -->
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:18181b,75:312e81,100:4c1d95&height=180&section=header&text=POOJA%20M%20M&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20DATA%20SCIENCE%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20AI&descSize=14&descAlignY=62&animation=fadeIn"/>
 
-`JAVA` &nbsp; `PYTHON` &nbsp; `AI/ML` &nbsp; `SQL` &nbsp; `AWS`
+### `building ideas into working solutions`
 
-<br><br>
-
-[ GitHub ](https://github.com/poojamanikandan4-commits) ·
-[ Portfolio ](https://poojamanikandan4-commits.github.io/) ·
-[ LinkedIn ](https://www.linkedin.com/in/pooja-manikandan-9623b6308) ·
-[ LeetCode ](https://leetcode.com/u/Poojamanikandan16/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://poojamanikandan4-commits.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-18181B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-manikandan-9623b6308)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-18181B?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Poojamanikandan16/)
 
 </div>
 
@@ -22,32 +18,37 @@
 <table>
 <tr>
 
-<td width="65%">
+<td width="60%" valign="top">
 
-### `HEY, I'M POOJA 👋`
+## `hello, i'm pooja 👋`
 
-AI & Data Science student who loves turning
-**ideas → code → working projects**.
+AI & Data Science student exploring the intersection of
 
-Currently exploring **software development, AI/ML,
-data and cloud technologies**.
+**software × data × artificial intelligence**
 
-`B.Tech AI & DS` · `CGPA 8.6` · `Coimbatore`
+I enjoy learning by building — turning an idea into a project,
+experimenting with it, and improving it.
+
+`Java` `Python` `SQL` `AI/ML` `AWS` `ABAP`
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" valign="top">
+
+### `QUICK LOOK`
 
 ```text
-╭──────────────╮
-│   STATUS     │
-│              │
-│   ● ACTIVE   │
-│              │
-│  BUILDING    │
-│  LEARNING    │
-│  EXPLORING   │
-╰──────────────╯
+EDUCATION
+B.Tech AI & Data Science
+
+CGPA
+8.6
+
+LOCATION
+Coimbatore
+
+FOCUS
+Software + AI
 ````
 
 </td>
@@ -59,44 +60,45 @@ data and cloud technologies**.
 
 <div align="center">
 
-### `CURRENTLY BUILDING`
+## `WHAT I'M EXPLORING`
 
-| 🔭 BUILDING | 🌱 LEARNING |   🧠 EXPLORING  |
-| :---------: | :---------: | :-------------: |
-| AI Projects |  Java + SQL | AI / ML + Cloud |
+`☕ Java`    `🐍 Python`    `🧠 AI / ML`
+   `🗄️ SQL`    `☁️ AWS`
 
 </div>
 
 ---
 
-## `⚡ FEATURED`
-
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Cloud Cost Optimizer
+### `01` ☁️ CLOUD COST OPTIMIZER
 
-AI-powered cloud cost analysis and
-optimization recommendation tool.
+**AI-powered cloud cost analysis**
 
-`Python` `GitHub API` `AI Agents`
+Finds optimization opportunities and generates
+actionable recommendations.
 
-**[ VIEW → ](YOUR_PROJECT_LINK)**
+`Python` · `AI Agents` · `GitHub API`
+
+**[ EXPLORE PROJECT → ](YOUR_PROJECT_LINK)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Java Flappy Bird
+### `02` 🎮 JAVA FLAPPY BIRD
 
-Desktop game with animation,
-collision detection, controls & scoring.
+**Desktop game built with Java**
 
-`Java` `AWT` `Swing`
+Game logic, animation, keyboard controls,
+collision detection and scoring.
 
-**[ VIEW → ](YOUR_PROJECT_LINK)**
+`Java` · `AWT` · `Swing`
+
+**[ EXPLORE PROJECT → ](YOUR_PROJECT_LINK)**
 
 </td>
 
@@ -107,7 +109,7 @@ collision detection, controls & scoring.
 
 <div align="center">
 
-### `STACK`
+## `TECH STACK`
 
 <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,aws&theme=dark"/>
 
@@ -119,11 +121,47 @@ collision detection, controls & scoring.
 
 ---
 
+<table>
+<tr>
+
+<td width="50%">
+
+### `LEARNING`
+
+```text
+Java          ████████░░
+Python        ████████░░
+SQL           ███████░░░
+AI / ML       ███████░░░
+Cloud         ██████░░░░
+```
+
+</td>
+
+<td width="50%">
+
+### `EXPERIENCE`
+
+**Machine Learning Intern**
+
+Accent Techno Soft
+`June 2025 — July 2025`
+
+Crime Rate Analysis
+`Python · ML · Data Analysis`
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-### `GITHUB PULSE`
+## `GITHUB ACTIVITY`
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=poojamanikandan4-commits&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=poojamanikandan4-commits&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamanikandan4-commits&layout=compact&hide_border=true&theme=tokyonight"/>
 
@@ -133,17 +171,24 @@ collision detection, controls & scoring.
 
 <div align="center">
 
-### `LEARN → BUILD → BREAK → UNDERSTAND → IMPROVE`
+### `LEARN → BUILD → SOLVE → IMPROVE`
 
-**Always building something new.**
+**I don't want to just learn technology.
+I want to build something meaningful with it.**
 
 <br>
 
-[![LET'S CONNECT](https://img.shields.io/badge/LET'S%20CONNECT-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pooja-manikandan-9623b6308)
+<a href="https://poojamanikandan4-commits.github.io/">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pooja-manikandan-9623b6308">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:050505&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:312e81,100:09090b&height=90&section=footer"/>
 
 </div>
-
+```
