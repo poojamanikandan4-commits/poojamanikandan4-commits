@@ -1,82 +1,71 @@
 
+<!-- ========================================================= -->
+<!--                    POOJA M M — PROFILE                    -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- ====================== HERO ====================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:1E1B4B,100:312E81&height=220&section=header&text=POOJA%20M%20M&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%20%E2%80%A2%20%20SOFTWARE%20%20%E2%80%A2%20%20AI&descAlignY=61&descSize=16&animation=fadeIn"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:312e81,75:4c1d95,100:0f172a&height=230&section=header&text=POOJA%20M%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%20%E2%80%A2%20%20SOFTWARE%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20BUILDER&descSize=15&descAlignY=60&animation=fadeIn"/>
+### `building • learning • experimenting`
 
-<br>
-
-`AI & DATA SCIENCE STUDENT` &nbsp; `JAVA DEVELOPER` &nbsp; `AI/ML EXPLORER`
+<a href="https://github.com/poojamanikandan4-commits">
+<img src="https://img.shields.io/badge/GITHUB-POOJAMANIKANDAN4--COMMITS-18181B?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pooja-manikandan-9623b6308">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-18181B?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Poojamanikandan16/">
+<img src="https://img.shields.io/badge/LEETCODE-PROBLEM_SOLVING-18181B?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=black)](https://github.com/YOUR_USERNAME)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LEETCODE-ffffff?style=flat-square&logo=leetcode&logoColor=FFA116)](YOUR_LEETCODE)
-&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:poojavsb074@gmail.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&style=for-the-badge&color=312e81"/>
+<img src="https://komarev.com/ghpvc/?username=poojamanikandan4-commits&label=PROFILE%20VIEWS&style=flat-square&color=312E81"/>
 
 </div>
 
 ---
 
-<!-- ====================== INTRO ====================== -->
-
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-## `◉ ABOUT ME`
+## `// hello, world`
 
-Hey! I'm **Pooja M M** 👋
+Hi, I'm **Pooja M M** 👋
 
-I'm an **AI & Data Science student** who enjoys transforming
-ideas and real-world problems into working software.
+An **AI & Data Science student** who likes turning
+curiosity into working software.
 
-My current world revolves around:
+I enjoy exploring the space between **software development,
+data and artificial intelligence** — learning something,
+building it, breaking it, and understanding it better.
 
-`Java` `Python` `SQL` `AI/ML` `AWS` `SAP/ABAP`
+**Currently exploring**
 
-I like learning by actually building things — from desktop
-applications to AI-powered tools.
-
-**Current mission:**  
-Become a stronger developer by combining **software,
-data and artificial intelligence**.
+`Java` · `Python` · `SQL` · `AI/ML` · `AWS` · `SAP/ABAP`
 
 </td>
 
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-## `◈ QUICK INFO`
+### `SYSTEM STATUS`
 
 ```text
-┌──────────────────────────┐
-│                          │
-│  NAME                    │
-│  Pooja M M               │
-│                          │
-│  FIELD                   │
-│  AI & Data Science       │
-│                          │
-│  EDUCATION               │
-│  B.Tech                  │
-│                          │
-│  CGPA                    │
-│  8.6                     │
-│                          │
-│  LOCATION                │
-│  Coimbatore, India       │
-│                          │
-└──────────────────────────┘
+● LEARNING
+
+AI & Data Science
+──────────────────
+
+JAVA        ███████░░░
+PYTHON      ████████░░
+SQL         ██████░░░░
+AI / ML     ██████░░░░
+CLOUD       █████░░░░░
 ````
 
 </td>
@@ -86,138 +75,56 @@ data and artificial intelligence**.
 
 ---
 
-<!-- ====================== STATUS ====================== -->
-
 <div align="center">
 
-### `CURRENTLY ONLINE`
+## `01 / CURRENT BUILD`
 
 </div>
 
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 🔭
+**🔭**
 
-**BUILDING**
+`BUILDING`
 
 AI-powered
-projects
+applications
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 🌱
+**🌱**
 
-**LEARNING**
+`LEARNING`
 
 Java
-SQL • AI/ML
+SQL • DSA
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### ☁️
+**🧠**
 
-**EXPLORING**
+`EXPLORING`
 
-AWS
-Cloud • SAP
-
-</td>
-
-<td align="center">
-
-### 🧠
-
-**IMPROVING**
-
-DSA
-Problem Solving
+AI / ML
+Cloud
 
 </td>
 
-</tr>
-</table>
+<td align="center" width="25%">
 
----
+**🎯**
 
-<!-- ====================== PROJECTS ====================== -->
+`NEXT`
 
-<div align="center">
-
-# `⚡ FEATURED BUILDS`
-
-### Things I've actually enjoyed building
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## ☁️ Cloud Cost Optimizer
-
-### `AI AGENT`
-
-An AI-powered tool for analyzing cloud costs
-and identifying optimization opportunities.
-
-```text
-ANALYZE
-   ↓
-EVALUATE
-   ↓
-OPTIMIZE
-   ↓
-RECOMMEND
-   ↓
-REPORT
-```
-
-**Built with**
-
-`Python` `GitHub API` `AI Agents`
-
-<br>
-
-**[ VIEW PROJECT → ](YOUR_PROJECT_LINK)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎮 Flappy Bird
-
-### `JAVA DESKTOP GAME`
-
-A desktop implementation of Flappy Bird
-with custom gameplay and graphical interface.
-
-```text
-PLAYER
-   ↓
-KEYBOARD
-   ↓
-GAME LOGIC
-   ↓
-COLLISION
-   ↓
-SCORE
-```
-
-**Built with**
-
-`Java` `AWT` `Swing`
-
-<br>
-
-**[ VIEW PROJECT → ](YOUR_PROJECT_LINK)**
+Become a
+strong developer
 
 </td>
 
@@ -226,131 +133,135 @@ SCORE
 
 ---
 
-<!-- ====================== TECH ====================== -->
-
 <div align="center">
 
-# `🧩 MY TOOLKIT`
+## `02 / SELECTED BUILDS`
 
 </div>
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
+
+### `01` ☁️
+
+# Cloud Cost Optimizer
+
+**AI-powered cloud cost analysis & optimization**
+
+A project focused on finding cloud cost
+optimization opportunities and generating
+actionable recommendations.
+
+```text
+Python
+GitHub API
+AI Agents
+```
+
+**Built for:** smarter cloud decisions
+
+<br>
+
+<a href="YOUR_CLOUD_COST_OPTIMIZER_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` 🎮
+
+# Java Flappy Bird
+
+**A desktop game built from scratch**
+
+A Java implementation featuring custom
+game logic, animation, collision detection,
+keyboard controls and scoring.
+
+```text
+Java
+AWT
+Swing
+```
+
+**Built for:** learning by building
+
+<br>
+
+<a href="YOUR_FLAPPY_BIRD_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `03 / THE TOOLBOX`
 
 ### LANGUAGES
 
-☕ Java
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git&theme=dark"/>
 
-🐍 Python
+<br><br>
 
-🗄️ SQL
+### AI • CLOUD • PLATFORM
 
-🔷 ABAP
+<img src="https://skillicons.dev/icons?i=aws,github&theme=dark"/>
 
-</td>
+<br><br>
 
-<td width="25%" align="center">
-
-### AI / DATA
-
-🤖 Machine Learning
-
-📊 Data Analysis
-
-📈 Visualization
-
-🧠 AI
-
-</td>
-
-<td width="25%" align="center">
-
-### CLOUD / SAP
-
-☁️ AWS
-
-🔷 SAP
-
-⚙️ ABAP
-
-</td>
-
-<td width="25%" align="center">
-
-### TOOLS
-
-🐙 GitHub
-
-🔧 Git
-
-💻 VS Code
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ====================== GITHUB ====================== -->
-
-<div align="center">
-
-# `📡 GITHUB TELEMETRY`
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+`Java`   `Python`   `SQL`   `ABAP`  
+`Machine Learning`   `AWS`   `SAP`   `Git`
 
 </div>
 
 ---
-
-<!-- ====================== JOURNEY ====================== -->
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## `🏆 HIGHLIGHTS`
+## `04 / EXPERIENCE`
 
-**Vyuga '26**
+### ML Intern
 
-Organized and coordinated web development
-activities for a national-level symposium.
+**Accent Techno Soft · Coimbatore**
+`June 2025 — July 2025`
 
-**Hackathons**
+Worked with real-world datasets using
+Python for:
 
-Participated in multiple national-level
-hackathons and worked on real-world
-problem statements.
+`preprocessing` → `visualization` → `ML` → `insights`
+
+**Project:**
+Crime Rate Analysis — City Wise Crime Data Insights
 
 </td>
 
 <td width="50%" valign="top">
 
-## `📜 CERTIFICATIONS`
+## `05 / CREDENTIALS`
 
-**SAP – ABAP Backend Developer**
-`2026`
+🎓 **B.Tech — AI & Data Science**
+V.S.B College of Engineering Technical Campus
 
-**AWS Cloud Practitioner Essentials**
-`2026`
+**CGPA:** `8.6`
 
 <br>
 
-### `WHAT'S NEXT?`
+📜 **SAP — ABAP Backend Developer** `2026`
 
-More projects.
-More experiments.
-Better engineering.
+📜 **AWS Cloud Practitioner Essentials** `2026`
 
 </td>
 
@@ -359,97 +270,102 @@ Better engineering.
 
 ---
 
-<!-- ====================== PHILOSOPHY ====================== -->
-
 <div align="center">
 
-# `∞ DEVELOPER MINDSET`
+## `06 / GITHUB PULSE`
 
-```text
-       LEARN
-         ↓
-     EXPERIMENT
-         ↓
-       BUILD
-         ↓
-       BREAK
-         ↓
-     UNDERSTAND
-         ↓
-      IMPROVE
-         ↓
-       REPEAT
-```
+<img src="https://github-readme-stats.vercel.app/api?username=poojamanikandan4-commits&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"/>
 
-### **"Don't just learn technology. Build something with it."**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamanikandan4-commits&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=poojamanikandan4-commits&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ====================== CONNECT ====================== -->
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## `07 / BEYOND CODE`
+
+🏆 Participated in national-level hackathons
+
+🏆 Worked on real-world problem statements
+
+🎤 Organized technical activities for **Vyuga '26**
+
+💻 Built projects across Java, AI and data
+
+</td>
+
+<td width="50%" valign="top">
+
+## `08 / NEXT ITERATION`
+
+```text
+Learn
+  ↓
+Experiment
+  ↓
+Build
+  ↓
+Solve
+  ↓
+Improve
+  ↓
+Repeat
+```
+
+> **I learn best when I'm building something.**
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:312e81,100:4c1d95&height=110&section=footer&text=LET'S%20BUILD%20SOMETHING&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
+## `09 / LET'S CONNECT`
 
-<br>
+**Have an idea, opportunity, or project in mind?**
 
-**Open to opportunities, collaborations and interesting ideas.**
+<a href="https://poojamanikandan4-commits.github.io/">
+<img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/pooja-manikandan-9623b6308">
+<img src="https://img.shields.io/badge/LINKEDIN-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![CONNECT WITH ME](https://img.shields.io/badge/CONNECT%20WITH%20ME-312E81?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-
-[![EMAIL ME](https://img.shields.io/badge/EMAIL%20ME-4C1D95?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:poojavsb074@gmail.com)
+<a href="https://leetcode.com/u/Poojamanikandan16/">
+<img src="https://img.shields.io/badge/LEETCODE-312E81?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 <br><br>
 
-`Pooja M M • AI & Data Science • Coimbatore`
+### `keep learning. keep building. keep becoming.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E1B4B,100:09090B&height=120&section=footer"/>
 
 </div>
 ```
 
-### This is the important difference
-
-The **GitHub profile itself** already gives you the left-side profile picture/name/sidebar shown in the screenshot. Your `README.md` controls the **large right-side portfolio area**.
-
-So the intended result is:
+### Replace only these 2 things
 
 ```text
-┌──────────────────┬─────────────────────────────────────────┐
-│                  │                                         │
-│  GitHub          │          CUSTOM HERO BANNER             │
-│  PROFILE         │      POOJA M M / AI & DATA              │
-│                  │                                         │
-│  Your GitHub     │  ABOUT ME        │ QUICK INFO            │
-│  avatar          │──────────────────┴──────────────────────│
-│                  │                                         │
-│  Pooja M M       │       CURRENTLY ONLINE                  │
-│                  │─────────────────────────────────────────│
-│  AI & DS         │                                         │
-│                  │          FEATURED BUILDS                │
-│  Coimbatore      │     ┌──────────┐ ┌──────────┐           │
-│                  │     │ ☁️ AI    │ │ 🎮 Java  │           │
-│  LinkedIn        │     │ Project  │ │ Project  │           │
-│                  │     └──────────┘ └──────────┘           │
-│  GitHub          │                                         │
-│                  │          🧩 MY TOOLKIT                  │
-│                  │─────────────────────────────────────────│
-│                  │          📡 GITHUB TELEMETRY            │
-│                  │─────────────────────────────────────────│
-│                  │          🏆 / 📜 HIGHLIGHTS             │
-│                  │                                         │
-│                  │          ∞ DEVELOPER MINDSET            │
-│                  │                                         │
-│                  │       LET'S BUILD SOMETHING              │
-│                  │                                         │
-└──────────────────┴─────────────────────────────────────────┘
+YOUR_CLOUD_COST_OPTIMIZER_LINK
+YOUR_FLAPPY_BIRD_LINK
 ```
 
-That is the **type of GitHub profile layout** you're asking for — not a resume converted into Markdown.
+Your **GitHub, portfolio, LinkedIn and LeetCode links are already filled in**. Your email is also taken from your resume. 
 
-Your actual resume information is being used only to personalize the content: your AI & DS identity, Java/Python/SQL/ABAP skills, projects, internship, certifications, Vyuga '26 and hackathons.  
-
-**You only need to replace:**
-`YOUR_USERNAME` · `YOUR_LINKEDIN` · `YOUR_LEETCODE` · `YOUR_PROJECT_LINK` (2 places).
+The important part is that the **GitHub stats will automatically populate from `poojamanikandan4-commits`**, so once you paste this into your profile repository's `README.md`, it becomes your live profile rather than a static resume.
