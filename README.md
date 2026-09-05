@@ -359,13 +359,3 @@ Repeat
 </div>
 ```
 
-### Replace only these 2 things
-
-```text
-YOUR_CLOUD_COST_OPTIMIZER_LINK
-YOUR_FLAPPY_BIRD_LINK
-```
-
-Your **GitHub, portfolio, LinkedIn and LeetCode links are already filled in**. Your email is also taken from your resume. 
-
-The important part is that the **GitHub stats will automatically populate from `poojamanikandan4-commits`**, so once you paste this into your profile repository's `README.md`, it becomes your live profile rather than a static resume.
