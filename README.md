@@ -1,38 +1,44 @@
 
 <div align="center">
 
-# 👋 YOUR NAME
+# 👋 POOJA M M
 
-### YOUR ROLE
+### AI & DATA SCIENCE STUDENT
 
-**Building ideas into practical, intelligent software.**
+**Building practical software with Java, Python, data & AI.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-111111?style=for-the-badge&logo=leetcode&logoColor=white)](LEETCODE_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE%20VIEWS&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-POOJA-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-PRACTICE-111111?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
+[![Email](https://img.shields.io/badge/Email-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojavsb074@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&style=flat-square)
 
 </div>
 
 ---
 
-## `01 — DEVELOPER IDENTITY`
+## `01 / DEVELOPER IDENTITY`
 
 <table>
 <tr>
+
 <td width="55%">
 
-### Hello, I'm YOUR NAME.
+### Hello, I'm Pooja.
 
-I'm a **YOUR ROLE** passionate about creating practical software,
-solving real-world problems, and continuously learning new technologies.
+I'm an **Artificial Intelligence & Data Science student** interested in
+software development, data-driven applications and AI solutions.
 
-I enjoy working with **YOUR MAIN TECHNOLOGIES** and exploring the
-intersection of software, data, AI, and automation.
+I enjoy turning real-world problems into practical technical solutions
+using **Java, Python, SQL and Machine Learning**.
 
-Currently, I'm focused on **YOUR CURRENT FOCUS**.
+I'm currently developing my programming foundations, exploring AI-driven
+applications and building projects that combine software with data.
 
 </td>
 
@@ -40,175 +46,135 @@ Currently, I'm focused on **YOUR CURRENT FOCUS**.
 
 ```text
 ╭──────────────────────────────╮
-│      DEVELOPER PROFILE       │
+│       DEVELOPER PROFILE      │
 ├──────────────────────────────┤
 │                              │
-│  Role       → YOUR ROLE      │
-│  Education  → YOUR EDUCATION │
-│  Location   → YOUR LOCATION  │
+│  Name       → Pooja M M      │
+│  Field      → AI & DS        │
+│  Education  → B.Tech         │
+│  CGPA       → 8.6            │
+│  Location   → Coimbatore     │
 │                              │
-│  Focus      → BUILDING       │
-│  Mindset    → LEARNING      │
-│  Direction  → GROWING       │
+│  Status     → STUDENT        │
+│  Direction  → SOFTWARE + AI  │
 │                              │
 ╰──────────────────────────────╯
 ````
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `02 — CURRENT STATUS`
+## `02 / DEVELOPER STATUS`
 
-| SIGNAL               | STATUS                                   |
-| -------------------- | ---------------------------------------- |
-| 🔭 **Building**      | `WHAT YOU ARE BUILDING`                  |
-| 🌱 **Learning**      | `WHAT YOU ARE LEARNING`                  |
-| 💡 **Interested In** | `YOUR INTERESTS`                         |
-| 🤝 **Open To**       | `COLLABORATION / INTERNSHIPS / PROJECTS` |
-| 🎯 **Goal**          | `YOUR CAREER GOAL`                       |
+| SIGNAL               | CURRENT STATE                                                        |
+| -------------------- | -------------------------------------------------------------------- |
+| 🔭 **Building**      | AI-powered and software development projects                         |
+| 🌱 **Learning**      | Java, SQL, AI/ML and cloud technologies                              |
+| 💡 **Interested In** | AI, Data Science, Software Development & Automation                  |
+| 🤝 **Open To**       | Internships, full-time opportunities & collaborations                |
+| 🎯 **Goal**          | Become a strong software/AI professional through continuous learning |
 
 ---
 
-## `03 — TECHNOLOGY STACK`
+## `03 / TECHNOLOGY STACK`
 
 ### LANGUAGES
 
 ![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=mysql\&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-111111?style=flat-square\&logo=sap\&logoColor=white)
 
-### FRONTEND
+### DATA & AI
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=white)
-
-### BACKEND
-
-![YOUR BACKEND](https://img.shields.io/badge/YOUR_BACKEND-111111?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-111111?style=flat-square)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
 
 ### DATABASE
 
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square\&logo=sqlite\&logoColor=white)
-
-### AI / MACHINE LEARNING
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=flat-square)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=mysql\&logoColor=white)
 
 ### CLOUD
 
-![YOUR CLOUD](https://img.shields.io/badge/YOUR_CLOUD-111111?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
+
+### SAP
+
+![SAP](https://img.shields.io/badge/SAP-111111?style=flat-square\&logo=sap\&logoColor=white)
+![ABAP](https://img.shields.io/badge/SAP_ABAP-111111?style=flat-square\&logo=sap\&logoColor=white)
 
 ### TOOLS
 
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square\&logo=amazonwebservices\&logoColor=white)
 
 ---
 
-## `04 — FEATURED BUILDS`
+## `04 / FEATURED BUILDS`
 
 <table>
 <tr>
 
 <td width="50%">
 
-### ◈ PROJECT 01
+### ◈ CLOUD COST OPTIMIZER AI AGENT
 
-**PROJECT 1 NAME**
+**AI-powered cloud cost analysis & optimization**
 
-> PROJECT 1 SHORT DESCRIPTION
+Built an AI-powered tool to analyze cloud costs and identify
+optimization opportunities.
 
-**The Problem**
+**What it does**
 
-DESCRIBE THE REAL-WORLD PROBLEM THIS PROJECT SOLVES.
+* Analyzes cloud cost information
+* Identifies optimization opportunities
+* Generates optimization recommendations
+* Provides automated decision support
+* Integrates with GitHub API
+* Produces automated reports
 
-**Built With**
+**Stack**
 
-`TECH 01` `TECH 02` `TECH 03`
+`Python` `GitHub API` `AI Agents`
 
-**Links**
+<br/>
 
-[Repository →](PROJECT_1_GITHUB_LINK)
-
-[Live Demo →](PROJECT_1_DEMO_LINK)
-
-</td>
-
-<td width="50%">
-
-### ◈ PROJECT 02
-
-**PROJECT 2 NAME**
-
-> PROJECT 2 SHORT DESCRIPTION
-
-**The Problem**
-
-DESCRIBE THE REAL-WORLD PROBLEM THIS PROJECT SOLVES.
-
-**Built With**
-
-`TECH 01` `TECH 02` `TECH 03`
-
-**Links**
-
-[Repository →](PROJECT_2_GITHUB_LINK)
-
-[Live Demo →](PROJECT_2_DEMO_LINK)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ◈ PROJECT 03
-
-**PROJECT 3 NAME**
-
-> PROJECT 3 SHORT DESCRIPTION
-
-**The Problem**
-
-DESCRIBE THE REAL-WORLD PROBLEM THIS PROJECT SOLVES.
-
-**Built With**
-
-`TECH 01` `TECH 02` `TECH 03`
-
-**Links**
-
-[Repository →](PROJECT_3_GITHUB_LINK)
-
-[Live Demo →](PROJECT_3_DEMO_LINK)
+[**VIEW REPOSITORY →**](YOUR_PROJECT_1_LINK)
 
 </td>
 
 <td width="50%">
 
-### ◈ MORE COMING SOON
+### ◈ JAVA GUI GAME DEVELOPMENT
 
-```text
-Ideas
-  ↓
-Experiments
-  ↓
-Projects
-  ↓
-Lessons
-  ↓
-Better Projects
-```
+**Desktop Flappy Bird implementation**
+
+Built a desktop version of **Flappy Bird** using Java with
+animation, collision detection and interactive gameplay.
+
+**What it includes**
+
+* Smooth animation
+* Collision detection
+* Keyboard controls
+* Scoring system
+* Obstacle generation
+* Custom graphical interface
+
+**Stack**
+
+`Java` `AWT` `Swing`
+
+<br/>
+
+[**VIEW REPOSITORY →**](YOUR_PROJECT_2_LINK)
 
 </td>
 
@@ -217,20 +183,54 @@ Better Projects
 
 ---
 
-## `05 — GITHUB TELEMETRY`
+## `05 / EXPERIENCE`
+
+### MACHINE LEARNING INTERN
+
+**Accent Techno Soft · Coimbatore**
+`June 2025 – July 2025`
+
+During my internship, I worked on:
+
+> **Crime Rate Analysis – City Wise Crime Data Insights using Python with Machine Learning**
+
+### WORK HIGHLIGHTS
+
+```text
+DATA
+ ↓
+Preprocessing
+ ↓
+Visualization
+ ↓
+Machine Learning
+ ↓
+Analysis
+ ↓
+Meaningful Insights
+```
+
+* Applied Python for data preprocessing.
+* Created visualizations for real-world datasets.
+* Worked with Machine Learning model building.
+* Analyzed real-world data to derive meaningful insights.
+
+---
+
+## `06 / GITHUB TELEMETRY`
 
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&count_private=true&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&rank_icon=github"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"/>
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
 
 </div>
 
@@ -238,13 +238,13 @@ src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true"/>
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME\&hide_border=true)](https://github.com/USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## `06 — CODING NETWORK`
+## `07 / CODING NETWORK`
 
 <table>
 <tr>
@@ -253,11 +253,11 @@ src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true"/>
 
 ### GITHUB
 
-Code
 Projects
 Experiments
+Open Source
 
-[**EXPLORE →**](https://github.com/USERNAME)
+[**EXPLORE →**](https://github.com/YOUR_USERNAME)
 
 </td>
 
@@ -265,11 +265,11 @@ Experiments
 
 ### LINKEDIN
 
-Career
-Networking
 Professional Journey
+Networking
+Opportunities
 
-[**CONNECT →**](LINKEDIN_LINK)
+[**CONNECT →**](YOUR_LINKEDIN_LINK)
 
 </td>
 
@@ -281,7 +281,7 @@ DSA
 Problem Solving
 Consistency
 
-[**SOLVE →**](LEETCODE_LINK)
+[**PRACTICE →**](YOUR_LEETCODE_LINK)
 
 </td>
 
@@ -289,11 +289,11 @@ Consistency
 
 ### EMAIL
 
-Ideas
 Opportunities
+Ideas
 Collaboration
 
-[**CONTACT →**](mailto:EMAIL)
+[**CONTACT →**](mailto:poojavsb074@gmail.com)
 
 </td>
 
@@ -302,78 +302,90 @@ Collaboration
 
 ---
 
-## `07 — CREDENTIALS`
+## `08 / CREDENTIALS`
 
 ### CERTIFICATIONS
 
-| Certification        | Organization         |
-| -------------------- | -------------------- |
-| **CERTIFICATION 01** | ISSUING ORGANIZATION |
-| **CERTIFICATION 02** | ISSUING ORGANIZATION |
-| **CERTIFICATION 03** | ISSUING ORGANIZATION |
+| Certification                         | Year |
+| ------------------------------------- | ---: |
+| **SAP – ABAP Backend Developer**      | 2026 |
+| **AWS Cloud Practitioner Essentials** | 2026 |
 
 ### ACHIEVEMENTS
 
-* 🏆 **ACHIEVEMENT 01**
-* 🏆 **ACHIEVEMENT 02**
-* 🏆 **ACHIEVEMENT 03**
+**VYUGA '26 — Web Development Event**
+
+Organized and coordinated Web Development events for the
+national-level symposium **“Vyuga '26”**, managing technical
+activities and participant engagement.
+
+**National-Level Hackathons**
+
+Participated in multiple national-level hackathons, collaborating
+with teams to develop innovative solutions for real-world problem
+statements within time-constrained environments.
 
 ---
 
-## `08 — CURRENTLY EXPLORING`
+## `09 / CURRENTLY EXPLORING`
 
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  CURRENT FOCUS                                           │
-│                                                          │
-│  → TECHNOLOGY / SKILL 01                                 │
-│  → TECHNOLOGY / SKILL 02                                 │
-│  → TECHNOLOGY / SKILL 03                                 │
-│  → PROJECT / AREA YOU ARE EXPLORING                      │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  CURRENT FOCUS                                             │
+│                                                            │
+│  → Java                                                    │
+│  → Python                                                  │
+│  → SQL                                                     │
+│  → Artificial Intelligence & Machine Learning              │
+│  → Cloud Technologies                                      │
+│  → SAP / ABAP                                              │
+│  → Software Development                                    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## `09 — DEVELOPER PHILOSOPHY`
+## `10 / DEVELOPER PHILOSOPHY`
 
 <div align="center">
 
-### Learn → Experiment → Build → Break → Understand → Improve
+### LEARN → EXPERIMENT → BUILD → SOLVE → IMPROVE
 
 <br>
 
-> **I don't aim to know everything.
-> I aim to understand something better every day.**
+> **Every problem is an opportunity to learn something new.
+> Every project is an opportunity to become better.**
 
 </div>
 
 ---
 
-## `10 — LET'S BUILD SOMETHING`
+## `11 / LET'S BUILD`
 
 <div align="center">
 
-### Got an interesting idea?
+### Have an interesting idea?
 
-I'm always open to learning, building, experimenting,
-and collaborating on meaningful projects.
+I'm open to **learning, collaborating, building projects,
+and exploring new opportunities.**
 
-<br>
+<br/>
 
-[![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](LINKEDIN_LINK)
+[![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
 
-[![Start a Conversation](https://img.shields.io/badge/START_A_CONVERSATION-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:EMAIL)
+[![Start a Conversation](https://img.shields.io/badge/START_A_CONVERSATION-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:poojavsb074@gmail.com)
 
-<br>
+<br/>
+
+`Build something useful. Learn something new. Keep improving.`
+
+<br/>
 
 **Thanks for visiting my GitHub.**
 
-`Build something. Learn something. Leave it better than you found it.`
-
 </div>
 ```
 
-Replace only the **`YOUR...` / placeholder values** with your actual information.
+**Only replace these remaining placeholders:** `YOUR_USERNAME`, `YOUR_LINKEDIN_LINK`, `YOUR_LEETCODE_LINK`, and the two project repository links. The rest is based on the information in your resume. 
