@@ -2,7 +2,7 @@
 
 ### AI & Data Science Student | Java Developer | AI/ML Enthusiast
 
-> Building ideas into practical solutions through code, data, and AI.
+> Building ideas into practical solutions through code, data, and AI
 
 📍 Coimbatore, India  
 🎓 B.Tech — Artificial Intelligence & Data Science  
