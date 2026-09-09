@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./713e5224-e82a-4f12-b23a-649718975e5c.png" width="100%">
+</p>
 # 👋 Hi, I'm Pooja M M
 
 ### AI & Data Science Student | Java Developer | AI/ML Enthusiast
